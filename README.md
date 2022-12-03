@@ -10,11 +10,11 @@ to be broadly compatible with modules written for many different versions of
 Terraform.
 
 ```
-$ go get github.com/terraform-docs/terraform-config-inspect
+$ go get github.com/pulberg/terraform-config-inspect
 ```
 
 ```go
-import "github.com/terraform-docs/terraform-config-inspect/tfconfig"
+import "github.com/pulberg/terraform-config-inspect/tfconfig"
 
 // ...
 
